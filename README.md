@@ -24,8 +24,8 @@ Metric Creation: Developed key measures including, 'Sales PY' - Sales for the pr
 Report Creation:
 Designed various reports to visualize and present the data effectively.
 
-#What I Found:#
-
+#**What I Found:#
+**
 Project Overview: Video Game Sales Data Analysis
 ---
 **Analyzed video game sales data spanning from 1980 to 2020.
